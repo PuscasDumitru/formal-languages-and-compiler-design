@@ -1,11 +1,13 @@
 # **Variant 13** 
 
-![](screenshots/hand.png)
+![](screenshots/hand.jpg)
 ![](screenshots/var13.png)
 
-# **Other test cases** 
+# **Another test case** 
 ![](screenshots/other1.png)
 ![](screenshots/other2.png)
 ![](screenshots/other3.png)
+
+# **Another test case**
 ![](screenshots/other4.png)
 ![](screenshots/other5.png)
